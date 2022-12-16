@@ -1,0 +1,13 @@
+# IDE and repos
+.idea
+.vscode
+.svn
+
+# Logs, backups, and trash
+*.log
+*.bak
+Thumbs.db
+desktop.ini
+.DS_Store
+.DS_Store?
+*.DS_Store
